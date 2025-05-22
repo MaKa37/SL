@@ -5,4 +5,4 @@ Structured Learning
 
 ##02. Programming
 
-##03. SQL and NoSQL 임
+##03. SQL and NoSQL
